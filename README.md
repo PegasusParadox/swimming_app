@@ -20,26 +20,23 @@ Database: Server-side Database
 🚀 Key Contributions
 1. Cross-Platform Architecture & Environment Setup
 
-Lead Developer: Responsible for the complete environment configuration of the React Native framework.
+  Lead Developer: Responsible for the complete environment configuration of the React Native framework.
 
-Native Module Integration: Successfully resolved complex native module linkings and version compatibility issues during the 2-year iteration period.
-
-
-UI/UX Refinement: Redesigned the daily training log interface to enhance user experience and data entry efficiency.
+  UI/UX Refinement: Redesigned the daily training log interface to enhance user experience and data entry efficiency.
 
 2. Full-Stack Adjustments & Optimization
-Frontend Performance: Optimized component lifecycle and state management to ensure smooth interaction with large historical training datasets.
+  Frontend Performance: Optimized component lifecycle and state management to ensure smooth interaction with large historical training datasets.
 
 
-Backend Logic: Refined data synchronization protocols between the mobile app and the analytical backend, ensuring data integrity for coach analysis.
+  Backend Logic: Refined data synchronization protocols between the mobile app and the analytical backend, ensuring data integrity for coach analysis.
 
 
-Fatigue Tracking: Implemented a structured system to collect and process sleep quality and fatigue questionnaires, providing critical insights for athletic recovery.
+  Fatigue Tracking: Implemented a structured system to collect and process sleep quality and fatigue questionnaires, providing critical insights for athletic recovery.
 
 3. Long-term Project Maintenance
-Managed the software lifecycle over half year, consistently adding new features and fixing architectural problems as the project scaled.
+  Managed the software lifecycle over half year, consistently adding new features and fixing architectural problems as the project scaled.
 
-Designed the system with future scalability in mind, preparing the groundwork for upcoming automated scheduling features.
+  Designed the system with future scalability in mind, preparing the groundwork for upcoming automated scheduling features.
 
 📈 Technical Highlights
 Continuous Iteration: Demonstrated the ability to maintain and upgrade a production-level codebase over an extended period.
