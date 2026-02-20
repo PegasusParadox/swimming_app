@@ -4,7 +4,7 @@ Showcase of a 2-year ongoing smart swimming management system featuring React Na
 ## 📌 Project Overview
 This repository serves as a technical showcase for an ongoing, project aimed at building a comprehensive swimming training and data management platform. The system focuses on tracking training progress, managing athlete fatigue indices, and providing actionable feedback for coaches and swimmers.
 
-Note: The full source code is hosted within a private organization repository. This showcase highlights my core contributions, architectural decisions, and technical optimizations.
+Note: The full source code is hosted within a private organization repository. This showcase highlights my core contributions and the app interface.
 
 ## 🛠 Tech Stack
 
